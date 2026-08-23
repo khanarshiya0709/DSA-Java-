@@ -10,11 +10,13 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0009-palindrome-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0509-fibonacci-number/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/khanarshiya0709/DSA-Java-/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0002-add-two-numbers/) | Medium |
+| [0509-fibonacci-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0494-target-sum/) | Medium |
+| [0509-fibonacci-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +51,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0125-valid-palindrome/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->

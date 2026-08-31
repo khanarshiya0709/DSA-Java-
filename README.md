@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0494-target-sum/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/khanarshiya0709/DSA-Java-/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Prefix Sum

@@ -20,6 +20,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0494-target-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0494-target-sum/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -49,6 +50,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0125-valid-palindrome/) | Easy |
 ## String
 | Problem Name | Difficulty |

@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -82,4 +83,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->

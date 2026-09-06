@@ -25,6 +25,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -88,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0169-majority-element/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -97,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0169-majority-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -106,4 +109,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0075-sort-colors/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

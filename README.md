@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0283-move-zeroes/) | Easy |
@@ -59,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0283-move-zeroes/) | Easy |
@@ -85,6 +87,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0075-sort-colors/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -95,4 +98,12 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0001-two-sum/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->

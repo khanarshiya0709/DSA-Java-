@@ -35,6 +35,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/khanarshiya0709/DSA-Java-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/khanarshiya0709/DSA-Java-/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@
 | [0125-valid-palindrome](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0283-move-zeroes/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/khanarshiya0709/DSA-Java-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +128,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/khanarshiya0709/DSA-Java-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->

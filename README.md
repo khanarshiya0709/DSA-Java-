@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0169-majority-element/) | Easy |
@@ -43,6 +44,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0053-maximum-subarray/) | Medium |
 | [0494-target-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
@@ -112,6 +114,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |

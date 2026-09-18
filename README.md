@@ -10,6 +10,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0509-fibonacci-number/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/khanarshiya0709/DSA-Java-/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -24,6 +25,7 @@
 | [0001-two-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0075-sort-colors/) | Medium |
@@ -139,5 +141,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->

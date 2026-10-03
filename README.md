@@ -40,6 +40,7 @@
 | [0229-majority-element-ii](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -95,6 +96,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -137,6 +139,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0169-majority-element/) | Easy |
+| [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +161,24 @@
 | [0048-rotate-image](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->

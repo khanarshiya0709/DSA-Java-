@@ -39,6 +39,7 @@
 | [0119-pascals-triangle-ii](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0136-single-number/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0229-majority-element-ii/) | Medium |
@@ -104,6 +105,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy

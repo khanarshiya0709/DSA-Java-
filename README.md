@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0509-fibonacci-number/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/khanarshiya0709/DSA-Java-/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -105,6 +106,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
@@ -193,4 +195,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->

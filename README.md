@@ -52,6 +52,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khanarshiya0709/DSA-Java-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -115,6 +116,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |

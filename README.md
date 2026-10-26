@@ -45,6 +45,7 @@
 | [0189-rotate-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0283-move-zeroes/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0494-target-sum/) | Medium |
@@ -62,6 +63,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/khanarshiya0709/DSA-Java-/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -72,6 +74,7 @@
 | [0118-pascals-triangle](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
@@ -114,6 +117,7 @@
 | [0069-sqrtx](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -125,6 +129,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/khanarshiya0709/DSA-Java-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khanarshiya0709/DSA-Java-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
